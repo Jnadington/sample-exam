@@ -1,2 +1,3 @@
-# sample-exam
-Sample Exam
+# exam
+
+[Instruction](Exam_instructions.pdf)
